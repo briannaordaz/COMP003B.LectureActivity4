@@ -1,5 +1,12 @@
 namespace COMP003B.LectureActivity4;
 
+/*
+ * Author: Brianna Ordaz
+ * Faculty: Jonathan Cruz
+ * Course: COMP-003B
+ * Purpose: creating and applying a shared Razor layout
+ */
+
 public class Program
 {
     public static void Main(string[] args)
